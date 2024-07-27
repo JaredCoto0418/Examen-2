@@ -274,3 +274,4 @@ C:\Users\Jared Coto\Desktop\Examen 2  POO\ApiAmortizacion\ApiAmortizacion\obj\De
 C:\Users\Jared Coto\Desktop\Examen 2  POO\ApiAmortizacion\ApiAmortizacion\obj\Debug\net8.0\ApiAmortizacion.pdb
 C:\Users\Jared Coto\Desktop\Examen 2  POO\ApiAmortizacion\ApiAmortizacion\obj\Debug\net8.0\ApiAmortizacion.genruntimeconfig.cache
 C:\Users\Jared Coto\Desktop\Examen 2  POO\ApiAmortizacion\ApiAmortizacion\obj\Debug\net8.0\ref\ApiAmortizacion.dll
+C:\Users\Jared Coto\Desktop\Examen 2  POO\ApiAmortizacion\ApiAmortizacion\obj\Debug\net8.0\ApiAmortizacion.sourcelink.json

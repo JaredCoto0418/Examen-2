@@ -15,7 +15,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ContextoDB>(options =>
 {
     options.UseQueryTrackingBehavior(QueryTrackingBehavior.TrackAll);
-    options.UseSqlServer(builder.Configuration.GetConnectionString("UriSqlServer"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("UriSqlServer")); // NOMBRE CONEXION BASE DE DATOS
 }); builder.Services.AddScoped<IAmortizacionService,AmortizacionServicio>();
 var app = builder.Build();
 
@@ -28,6 +28,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseAuthorization();
 
-app.MapControllers();
+app.MapControllers(); // MNAPEO
 
 app.Run();

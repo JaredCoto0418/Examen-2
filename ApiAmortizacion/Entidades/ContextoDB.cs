@@ -12,7 +12,6 @@ public partial class ContextoDB : DbContext
         : base(options)
     {
     }
-
     public virtual DbSet<Amortizacion> Amortizacion { get; set; }
 
     public virtual DbSet<Cliente> Cliente { get; set; }

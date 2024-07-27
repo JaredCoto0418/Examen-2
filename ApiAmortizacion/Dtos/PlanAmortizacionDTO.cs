@@ -1,5 +1,7 @@
 ﻿namespace ApiAmortizacion.Dtos
 {
+
+    // PLAN DE AMORTIZACION
     public record PlanAmortizacionDTO(
         int NumeroCouta,
         string FechaPago,
