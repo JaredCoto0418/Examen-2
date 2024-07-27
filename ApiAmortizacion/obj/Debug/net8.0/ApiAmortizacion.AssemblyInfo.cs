@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAmortizacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00d3e5851d69f9ce1343057bcc343c09cba67961")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAmortizacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAmortizacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4524,19 +4524,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luisj\\.nuget\\packages\\": {}
+    "C:\\Users\\Jared Coto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\ApiAmortizacion.csproj",
+      "projectUniqueName": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\ApiAmortizacion.csproj",
       "projectName": "ApiAmortizacion",
-      "projectPath": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\ApiAmortizacion.csproj",
-      "packagesPath": "C:\\Users\\luisj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\obj\\",
+      "projectPath": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\ApiAmortizacion.csproj",
+      "packagesPath": "C:\\Users\\Jared Coto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\luisj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jared Coto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
