@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\luisj\\onedrive\\documentos\\visual studio 2022\\apiamortizacion\\apiamortizacion\\controllers\\amortizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\controllers\\amortizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\luisj\\onedrive\\documentos\\visual studio 2022\\apiamortizacion\\apiamortizacion\\servicios\\implementacion\\amortizacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\servicios\\implementacion\\amortizacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\luisj\\onedrive\\documentos\\visual studio 2022\\apiamortizacion\\apiamortizacion\\dtos\\planamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\dtos\\planamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\luisj\\onedrive\\documentos\\visual studio 2022\\apiamortizacion\\apiamortizacion\\dtos\\amortizacionclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\dtos\\amortizacionclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\luisj\\onedrive\\documentos\\visual studio 2022\\apiamortizacion\\apiamortizacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\luisj\\onedrive\\documentos\\visual studio 2022\\apiamortizacion\\apiamortizacion\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\luisj\\onedrive\\documentos\\visual studio 2022\\apiamortizacion\\apiamortizacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\luisj\\onedrive\\documentos\\visual studio 2022\\apiamortizacion\\apiamortizacion\\dtos\\respuestacrearamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\dtos\\respuestacrearamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\luisj\\onedrive\\documentos\\visual studio 2022\\apiamortizacion\\apiamortizacion\\apiamortizacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\apiamortizacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\luisj\\onedrive\\documentos\\visual studio 2022\\apiamortizacion\\apiamortizacion\\entidades\\contextodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\entidades\\contextodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanAmortizacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\PlanAmortizacionDTO.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Dtos\\PlanAmortizacionDTO.cs",
+              "ToolTip": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\PlanAmortizacionDTO.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Dtos\\PlanAmortizacionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:41:10.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmortizacionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Servicios\\Implementacion\\AmortizacionServicio.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Servicios\\Implementacion\\AmortizacionServicio.cs",
+              "ToolTip": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Servicios\\Implementacion\\AmortizacionServicio.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Servicios\\Implementacion\\AmortizacionServicio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:41:08.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\appsettings.json",
+              "ToolTip": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\appsettings.json",
+              "RelativeToolTip": "ApiAmortizacion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T01:53:49.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RespuestaCrearAmortizacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\RespuestaCrearAmortizacionDTO.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Dtos\\RespuestaCrearAmortizacionDTO.cs",
+              "ToolTip": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\RespuestaCrearAmortizacionDTO.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Dtos\\RespuestaCrearAmortizacionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:53:00.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AmortizacionController.cs",
+              "DocumentMoniker": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Controllers\\AmortizacionController.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Controllers\\AmortizacionController.cs",
+              "ToolTip": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Controllers\\AmortizacionController.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Controllers\\AmortizacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:50:27.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AmortizacionClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\AmortizacionClienteDTO.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Dtos\\AmortizacionClienteDTO.cs",
+              "ToolTip": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\AmortizacionClienteDTO.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Dtos\\AmortizacionClienteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T02:04:32.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\efpt.config.json",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\efpt.config.json",
+              "ToolTip": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\efpt.config.json",
+              "RelativeToolTip": "ApiAmortizacion\\efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T01:55:29.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Program.cs",
+              "ToolTip": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Program.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:49:25.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContextoDB.cs",
+              "DocumentMoniker": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Entidades\\ContextoDB.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Entidades\\ContextoDB.cs",
+              "ToolTip": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\Entidades\\ContextoDB.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Entidades\\ContextoDB.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:09:42.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiAmortizacion.csproj",
+              "DocumentMoniker": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\ApiAmortizacion.csproj",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\ApiAmortizacion.csproj",
+              "ToolTip": "C:\\Users\\luisj\\OneDrive\\Documentos\\Visual Studio 2022\\ApiAmortizacion\\ApiAmortizacion\\ApiAmortizacion.csproj",
+              "RelativeToolTip": "ApiAmortizacion\\ApiAmortizacion.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T00:04:15.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
