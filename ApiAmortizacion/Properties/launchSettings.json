@@ -18,6 +18,8 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+
+      // uso de swagger unicamente, tuve problemas con bruno
     },
     "IIS Express": {
       "commandName": "IISExpress",

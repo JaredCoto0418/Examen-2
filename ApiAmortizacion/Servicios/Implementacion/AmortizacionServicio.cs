@@ -107,6 +107,8 @@ namespace ApiAmortizacion.Servicios.Implementacion
                     (double)x.SaldoCapital
                 )).ToArray()
             );
+
+            //  Para probar
         }
     }
 }

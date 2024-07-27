@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\dtos\\amortizacionclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\dtos\\amortizacionclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\dtos\\respuestacrearamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\dtos\\respuestacrearamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\dtos\\planamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\dtos\\planamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\dtos\\crearamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\dtos\\crearamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\dtos\\amortizacionclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\dtos\\amortizacionclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\entidades\\planamortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\entidades\\planamortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\entidades\\amortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\entidades\\amortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\servicios\\implementacion\\amortizacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\servicios\\implementacion\\amortizacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\apiamortizacion.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\apiamortizacion.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\controllers\\amortizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\controllers\\amortizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|c:\\users\\jared coto\\desktop\\examen 2  poo\\apiamortizacion\\apiamortizacion\\servicios\\interfaces\\iamortizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB82665-5B72-4BA2-B08A-02BFEC3E7943}|ApiAmortizacion\\ApiAmortizacion.csproj|solutionrelative:apiamortizacion\\servicios\\interfaces\\iamortizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +70,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RespuestaCrearAmortizacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\RespuestaCrearAmortizacionDTO.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Dtos\\RespuestaCrearAmortizacionDTO.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\RespuestaCrearAmortizacionDTO.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Dtos\\RespuestaCrearAmortizacionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:06:07.747Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrearAmortizacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\CrearAmortizacionDTO.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Dtos\\CrearAmortizacionDTO.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\CrearAmortizacionDTO.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Dtos\\CrearAmortizacionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:05:53.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlanAmortizacion.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Entidades\\PlanAmortizacion.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Entidades\\PlanAmortizacion.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Entidades\\PlanAmortizacion.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Entidades\\PlanAmortizacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:05:46.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Entidades\\Cliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:05:39.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Amortizacion.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Entidades\\Amortizacion.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Entidades\\Amortizacion.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Entidades\\Amortizacion.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Entidades\\Amortizacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:05:35.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Program.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:05:20.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,23 +158,122 @@
               "RelativeDocumentMoniker": "ApiAmortizacion\\Dtos\\PlanAmortizacionDTO.cs",
               "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\PlanAmortizacionDTO.cs",
               "RelativeToolTip": "ApiAmortizacion\\Dtos\\PlanAmortizacionDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T03:41:10.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\appsettings.json",
+              "RelativeToolTip": "ApiAmortizacion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T08:05:02.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AmortizacionClienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\AmortizacionClienteDTO.cs",
               "RelativeDocumentMoniker": "ApiAmortizacion\\Dtos\\AmortizacionClienteDTO.cs",
               "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Dtos\\AmortizacionClienteDTO.cs",
               "RelativeToolTip": "ApiAmortizacion\\Dtos\\AmortizacionClienteDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T02:04:32.611Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiAmortizacion.http",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\ApiAmortizacion.http",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\ApiAmortizacion.http",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\ApiAmortizacion.http",
+              "RelativeToolTip": "ApiAmortizacion\\ApiAmortizacion.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-27T08:05:03.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\efpt.config.json",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\efpt.config.json",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\efpt.config.json",
+              "RelativeToolTip": "ApiAmortizacion\\efpt.config.json",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T08:04:56.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiAmortizacion\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T08:04:16.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AmortizacionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Servicios\\Implementacion\\AmortizacionServicio.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Servicios\\Implementacion\\AmortizacionServicio.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Servicios\\Implementacion\\AmortizacionServicio.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Servicios\\Implementacion\\AmortizacionServicio.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAG4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:02:16.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AmortizacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Controllers\\AmortizacionController.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Controllers\\AmortizacionController.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Controllers\\AmortizacionController.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Controllers\\AmortizacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:03:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAmortizacionService.cs",
+              "DocumentMoniker": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Servicios\\Interfaces\\IAmortizacionService.cs",
+              "RelativeDocumentMoniker": "ApiAmortizacion\\Servicios\\Interfaces\\IAmortizacionService.cs",
+              "ToolTip": "C:\\Users\\Jared Coto\\Desktop\\Examen 2  POO\\ApiAmortizacion\\ApiAmortizacion\\Servicios\\Interfaces\\IAmortizacionService.cs",
+              "RelativeToolTip": "ApiAmortizacion\\Servicios\\Interfaces\\IAmortizacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:02:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

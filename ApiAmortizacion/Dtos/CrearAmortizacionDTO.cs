@@ -1,5 +1,7 @@
 ﻿namespace ApiAmortizacion.Dtos
 {
+
+    //
     public record CrearAmortizacionDTO(
         string Nombre,
         string NumeroIdentidad,

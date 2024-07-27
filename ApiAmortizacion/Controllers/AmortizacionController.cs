@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace ApiAmortizacion.Controllers
 {
     [ApiController]
-    [Route("api/loans")]
+    [Route("api/loans")] // solicitado
     public class AmortizacionController : ControllerBase
     {
         private readonly IAmortizacionService amortizacion;
